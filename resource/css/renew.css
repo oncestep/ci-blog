@@ -1,0 +1,91 @@
+.account_tfont{
+    margin-left: 35%;
+    margin-top: -30px;
+    font-family: 'Arial Black';
+}
+img.account_profile{
+    width:200px;
+    height:200px;
+    text-align: center;
+}
+.account_form{
+    width: 60%;
+    margin-left: 20%;
+}
+div.float_block_l{
+    float:left;
+    display:block;
+    margin-bottom: 8px;
+
+    border:solid 1px gray;
+    border-radius: 8px 8px 8px 0;
+}
+div.float_block_r{
+    float:right;
+    display:block;
+    margin-bottom: 8px;
+
+    border:solid 1px gray;
+    border-radius: 8px 8px 0 8px;
+}
+.text_size{
+    resize: none;
+}
+.box_align{
+    font-size: 12px;
+    text-align: left;
+}
+.contain_style{
+    width:100%;
+    -webkit-box-sizing: initial;
+    -moz-box-sizing: initial;
+    box-sizing: initial;
+}
+img.size_s{
+    width:200px;
+    height:130px;
+}
+.size_m{
+    width:100%;
+    height:350px;
+}
+.comment_bri{
+    background-color: #aeff72;
+}
+.display_default{
+    display:none;
+}
+.limit_resize{
+    resize: none;
+}
+.title_size{
+     width:87%;
+     display: inline-block;
+ }
+.img_size{
+    width:30px;
+    height:30px;
+}
+.back_op{
+    background: transparent;
+    border:none;
+    margin-bottom: 0px;
+}
+.umeditor {
+    width: 465px;
+    height:200px;
+}
+.limit{
+    padding:0;
+    width:100%;
+}
+.show_inline{
+    display:inline-block;
+}
+button.btn_mar{
+    margin-top: 15px;
+}
+div.img_limit img{
+    width:200px;
+    height:150px;
+}
